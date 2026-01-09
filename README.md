@@ -4,7 +4,7 @@ One voice. Every language.
 
 ## Demo
 
-plese use google chrome browser to open the demo page.
+-Please use google chrome browser to open the demo page.
 https://transnow.vercel.app/
 
 ## Features
