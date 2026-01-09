@@ -187,7 +187,7 @@ const Translator = () => {
                   </p>
                 ) : (
                   <p className="text-neutral-400 text-center mt-20">
-                    Your spoken text will appear here
+                    Your spoken text will appear here bhai
                   </p>
                 )}
               </div>
